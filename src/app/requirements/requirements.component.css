@@ -1,0 +1,8 @@
+.requirements-container {
+    padding-left: 40px;
+}
+
+.requirements-list {
+    display: flex;
+    flex-direction: column;
+}

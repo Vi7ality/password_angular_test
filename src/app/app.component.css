@@ -1,0 +1,11 @@
+.main-title {
+    text-align: center;
+}
+
+
+.container {
+    margin: 0 auto;
+    padding: 0 15px;
+    background-color: azure;
+    width: 768px;
+}
